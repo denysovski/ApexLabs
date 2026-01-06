@@ -10,4 +10,4 @@ Technology presentation made simple: A clear, structured layout that communicate
 - It’s modern, focused, and clean without sacrificing a professional feel. The goal is simple: present technology and design clearly without users fighting the interface.
 
 ## Live preview
-Link to the website: 
+Link to the website: https://denysovski.github.io/ApexLabs/
