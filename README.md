@@ -11,3 +11,5 @@ Technology presentation made simple: A clear, structured layout that communicate
 
 ## Live preview
 Link to the website: https://denysovski.github.io/ApexLabs/
+
+<img alt="screencapture-denysovski-github-io-ApexLabs-2026-01-06-16_54_25" src="https://github.com/user-attachments/assets/1e2b99b0-c9e2-4249-88ae-b9d146520355" />
